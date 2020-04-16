@@ -1,2 +1,2 @@
 # hello-world
-heyy i'm wissal , i'm a biginner , I enjoy coding!!
+heyy i'm wissal , i'm a beginner , I enjoy coding!!
